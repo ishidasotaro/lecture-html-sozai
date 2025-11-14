@@ -1,1 +1,3 @@
-# lecture-html-sozai
+各レベルに合わせたhtmlを選び、中身を今回使うph1ウェブサイトファイルに貼り付けてください。
+解答時はhtmlのクラス名に対応するようにcssを実装してください。
+※CSS回答集はこちら　https://github.com/ishidasotaro/lecture11_14_css_answers
